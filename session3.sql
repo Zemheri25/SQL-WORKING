@@ -96,3 +96,7 @@ on markalar.marka_id = siparisler.marka_id;
 
 
 
+
+
+
+
